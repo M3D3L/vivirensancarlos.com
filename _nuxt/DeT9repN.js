@@ -1,0 +1,1 @@
+import{k as e,mt as t,v as n}from"./DVRkMeDb.js";import{t as r}from"./CZkPJy4_.js";var i=e({__name:`venda-su-propiedad`,setup(e){return(e,i)=>(t(),n(r,{lang:`Sp`}))}});export{i as default};
