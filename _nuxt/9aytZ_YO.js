@@ -1,0 +1,1 @@
+import{k as e,mt as t,v as n}from"./DVRkMeDb.js";import{t as r}from"./Y2weX8Zt.js";var i=e({__name:`ventas`,setup(e){return(e,i)=>(t(),n(r,{lang:`Sp`}))}});export{i as default};
