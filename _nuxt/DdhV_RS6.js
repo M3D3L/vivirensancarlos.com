@@ -1,0 +1,1 @@
+import{h as e}from"./4ZLv_gTA.js";import{k as t,mt as n,v as r}from"./DVRkMeDb.js";import{t as i}from"./hlCetT7b.js";var a=t({__name:`lots`,setup(e){return(e,t)=>(n(),r(i,{type:`lots`}))}}),o=e({default:()=>s}),s=a;export{o as n,s as t};

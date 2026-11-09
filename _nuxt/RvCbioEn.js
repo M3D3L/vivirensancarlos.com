@@ -1,0 +1,1 @@
+import{g as e}from"./Bd7OjE3r.js";var t=e(`message-circle`,[[`path`,{d:`M7.9 20A9 9 0 1 0 4 16.1L2 22Z`,key:`vv11sd`}]]);export{t};
