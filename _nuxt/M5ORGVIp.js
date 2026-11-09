@@ -1,0 +1,1 @@
+import{Kt as e,b as t,k as n,mt as r}from"./DVRkMeDb.js";import{c as i,u as a}from"./6BmqgXd3.js";var o=n({__name:`venda-su-propiedad`,async setup(n){let o,s,c=a();return[o,s]=e(()=>i({path:`/anuncia-tu-propiedad/`,query:c.query,hash:c.hash},{redirectCode:301,replace:!0})),await o,s(),(e,n)=>(r(),t(`div`))}});export{o as default};

@@ -1,0 +1,1 @@
+import{k as e,mt as t,v as n}from"./DVRkMeDb.js";import{t as r}from"./B-d7Knnp.js";var i=e({__name:`anuncia-tu-propiedad`,setup(e){return(e,i)=>(t(),n(r,{lang:`Sp`}))}});export{i as default};
