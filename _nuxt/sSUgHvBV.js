@@ -1,0 +1,1 @@
+import{k as e,mt as t,v as n}from"./DVRkMeDb.js";import{t as r}from"./ueq_H3Xw.js";var i=e({__name:`lots`,setup(e){return(e,i)=>(t(),n(r,{type:`lots`}))}}),a=e({__name:`terrenos`,setup(e){return(e,r)=>(t(),n(i))}});export{a as default};
