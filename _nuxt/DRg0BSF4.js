@@ -1,1 +1,0 @@
-import{k as e,mt as t,v as n}from"./DVRkMeDb.js";import{t as r}from"./DdhV_RS6.js";var i=e({__name:`terrenos`,setup(e){return(e,i)=>(t(),n(r))}});export{i as default};
